@@ -133,8 +133,9 @@ These Interactive filters allow users to filter the dashboard dynamically and ex
 This project used Microsoft Excel to analyze employee data and develop an interactive HR analytics dashboard.
 The analysis focused on employees distribution, salary patterns, employment status, remote work, regional differences, and performance scores.
 
-Through data cleaning, PivotTable analysis, and dashboard development, I strengthened my skills in data preparation, data analysis, data visualization, and KPI reporting. The dashboard provides and organized way to explore workforce data and supports date-driven decision-making.
+Through data cleaning, PivotTable analysis, and dashboard development, I strengthened my skills in data preparation, data
+analysis, data visualization, and KPI reporting. The dashboard provides and organized way to explore workforce data and supports date-driven decision-making.
 
 ## Author
 
-Anis-Mo
+anis-mo
