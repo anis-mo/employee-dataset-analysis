@@ -73,7 +73,7 @@ The final stage was creating an interactive employee dashboard.
 
 ## Dashboard Preview
 
-![Dashboard Employee](images/Employee-Dashboard.png)
+![Dashboard Employee](Employee-Dashboard.png)
 
 ## Dashboard Components
 
