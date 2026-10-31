@@ -10,7 +10,7 @@ The project includes data cleaning, PivotTables, data analysis, and an interacti
 
 ## Objectives
 
-The objective of this project is to transform raw emlpoyee data into a clean and structured dataset, analyze employee and salary patterns the results in a clear and professional way.
+The objective of this project is to transform raw employee data into a clean and structured dataset, analyze employee and salary patterns the results in a clear and professional way.
 
 ## 🗒️Dataset
 
@@ -34,7 +34,7 @@ The dataset contains transaction-level information about cafe sales:
 
 The first stage focused on preparing the raw employee data for analysis :
 
-- Checked for duplicate emlpoyee records.
+- Checked for duplicate employee records.
 - Checked for missing and blank values.
 - Replaced "N/A" values in numerical columns such as "Salary" with blanks.
 - Kept missing numerical values blank instead of replacing them with zero.
@@ -58,7 +58,7 @@ After cleaning the data, PivotTables were created to answer the main analysis qu
 
 - Which departments have the highest average salary ?
 - How many employees are in each department ?
-- How many employees distributed by employent status ?
+- How many employees distributed by employment status ?
 - How does remote work affect average salary ?
 - Which regions have the highest average salary ?
 - How does performance score relate to average salary ?
@@ -67,7 +67,7 @@ These questions were used to create six PivotTables for the dashboard analysis.
 
 ---
 
-## 📊Dashboard Developement 
+## 📊Dashboard Development 
 
 The final stage was creating an interactive employee dashboard.
 
