@@ -135,6 +135,18 @@ The analysis focused on employees distribution, salary patterns, employment stat
 
 Through data cleaning, PivotTable analysis, and dashboard development, I strengthened my skills in data preparation, data analysis, data visualization, and KPI reporting. The dashboard provides and organized way to explore workforce data and supports date-driven decision-making.
 
+---
+
+📚 Data Source & License
+
+- Dataset: Messy Employee Data
+- Source: Kaggle
+- License: CC0: Public Domain
+
+The dataset is released under the CC0 Public Domain dedication, allowing it to be used, modified, and redistributed without requiring attribution under the license.
+
+Dataset Link: "View Dataset on Kaggle" (https://www.kaggle.com/datasets/desolution01/messy-employee-dataset)
+
 ## Author
 
 anis-mo
